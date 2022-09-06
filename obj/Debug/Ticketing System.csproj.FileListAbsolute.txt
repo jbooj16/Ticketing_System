@@ -1,0 +1,6 @@
+/Users/jacobboudreaux/RiderProjects/Ticketing System/Ticketing System/bin/Debug/Ticketing_System.exe
+/Users/jacobboudreaux/RiderProjects/Ticketing System/Ticketing System/bin/Debug/Ticketing_System.pdb
+/Users/jacobboudreaux/RiderProjects/Ticketing System/Ticketing System/obj/Debug/Ticketing System.csprojAssemblyReference.cache
+/Users/jacobboudreaux/RiderProjects/Ticketing System/Ticketing System/obj/Debug/Ticketing System.csproj.CoreCompileInputs.cache
+/Users/jacobboudreaux/RiderProjects/Ticketing System/Ticketing System/obj/Debug/Ticketing_System.exe
+/Users/jacobboudreaux/RiderProjects/Ticketing System/Ticketing System/obj/Debug/Ticketing_System.pdb
